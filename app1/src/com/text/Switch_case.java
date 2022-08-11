@@ -1,0 +1,56 @@
+package com.text;
+import java.util.Scanner;
+public class Switch_case {
+	public int add(int a,int b) {
+    	int c = a + b;
+    	return c;
+    }
+	
+	public int sub(int a,int b) {
+		int c = a - b;
+		return c;
+	}
+	public int div(int a,int b) {
+		int c = a / b;
+		return c;
+	}
+	public int multiply(int a,int b) {
+		int c = a * b;
+		return c;
+	}
+	public static void main(String[] args) {
+    {
+    Scanner sc = new Scanner(System.in);
+    
+    System.out.println("enter any number");
+    int x = sc.nextInt();
+    System.out.println("enter 2nd number");
+    int y = sc.nextInt();
+    System.out.println("Select an operation");
+    System.out.println("1.Add\n2.Subtract\n3.Divide\n4.Multiply");
+    int opt = sc.nextInt();
+    Switch_case obj = new Switch_case();
+    int c;
+    switch(opt)
+    {
+        case 1:
+        	c = obj.add(x, y);
+        	System.out.println("Result = "+ c);
+        	break;
+        case 2: 
+        	c = obj.sub(x, y);
+            System.out.println("Result = "+ c);
+        	break;
+        case 3: 
+        	c = obj.div(x, y);
+        	System.out.println("Result = "+ c);
+        	break;
+        case 4: 
+        	c = obj.multiply(x, y);
+        	System.out.println("Result = "+ c);
+        	break;
+        default: System.out.println("Select a valid option");
+    }
+    }
+    }
+    }

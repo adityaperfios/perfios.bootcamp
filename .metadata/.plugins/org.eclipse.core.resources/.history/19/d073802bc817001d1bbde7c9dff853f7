@@ -1,0 +1,12 @@
+package com.perfs;
+import com.perfs.Modifiers;
+
+public class Class2 {
+	Modifiers obj = new Modifiers();
+	
+	public void disp()
+	{
+		System.out.println("Accessing public var (a) of class modifiers "
+				+ "through Class2 "+obj.a);
+	}
+}

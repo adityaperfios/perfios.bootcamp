@@ -1,0 +1,19 @@
+package pkg;
+
+public class Class1 {
+
+	int id = 101;
+	static int pin = 123456;
+	public void display() {
+		System.out.println(id+" "+pin);
+	}
+	public static void main(String[] args) {
+		Class1 obj = new Class1();
+		obj.display();
+		System.out.println(obj);
+		System.out.println(obj.hashCode());
+	}
+}
+class Class2{
+	
+}

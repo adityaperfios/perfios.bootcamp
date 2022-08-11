@@ -1,0 +1,20 @@
+package com.text;
+
+public class Switch_case {
+    public static void main(String[] args) {
+    {
+    }
+    int opt = 4;
+
+    switch(opt)
+    {
+        case 1: System.out.println("option 1");
+        break;
+        case 2: System.out.println("option 2");
+        break;
+        case 3: System.out.println("option 3");
+        break;
+        default: System.out.println("Select a valid option");
+    }
+    }
+}

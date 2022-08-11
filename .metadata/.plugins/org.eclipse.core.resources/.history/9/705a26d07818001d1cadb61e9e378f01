@@ -1,0 +1,20 @@
+package pkg;
+
+class Stat {
+	static
+	{
+		System.out.println("static block");
+	}
+	public Stat()
+	{
+		System.out.println("Constructor");
+	}
+	
+}
+public class Stat1 {
+	public static void main(String[] args) {
+		System.out.println("main method");
+		Stat obj = new Stat();
+	}
+	
+}

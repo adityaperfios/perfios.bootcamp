@@ -1,0 +1,38 @@
+package com.text;
+import java.util.Scanner;
+public class Switch_case {
+	public int add(int a,int b) {
+    	int c = a + b;
+    	return c;
+    }
+	
+	public int sub(int a,int b) {
+		int c = a - b;
+		return c;
+	}
+	public int div(int a,int b) {
+		int c = a / b;
+		return c;
+	}
+	public int multiply(int a,int b) {
+		int c = a * b;
+		return c;
+	}
+	public static void main(String[] args) {
+    {
+    Scanner sc = new Scanner(System.in);
+    
+
+    switch(opt)
+    {
+        case 1: System.out.println("option 1");
+        break;
+        case 2: System.out.println("option 2");
+        break;
+        case 3: System.out.println("option 3");
+        break;
+        default: System.out.println("Select a valid option");
+    }
+    }
+    }
+    }

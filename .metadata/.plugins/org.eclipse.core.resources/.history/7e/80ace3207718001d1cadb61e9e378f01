@@ -1,0 +1,28 @@
+package pkg;
+
+public class Constructor {
+	//default cons
+	public Constructor()
+	{
+		System.out.println("default constructor");
+	}
+	//parametrised
+	public Constructor(int a)
+	{
+		System.out.println("parametrised cons");
+	}
+	//overloaded
+	public Constructor(String a)
+	{
+		System.out.println("overloaded ");
+	}
+	public Constructor(Constructor a)
+	{
+		System.out.println("object parametrised cons");
+	}
+	
+	class Emp ()
+	{
+		Constructor obj = new Constructor();
+	}
+}
