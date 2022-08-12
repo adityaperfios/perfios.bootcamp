@@ -14,4 +14,8 @@
 <fullyQualifiedTypeName name="pkg.SingleTn"/>
 <fullyQualifiedTypeName name="pkg.Exp"/>
 <fullyQualifiedTypeName name="sun.misc.Signal"/>
+<fullyQualifiedTypeName name="Examples.test1"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="Examples.Student"/>
+<fullyQualifiedTypeName name="Examples.data"/>
 </qualifiedTypeNameHistroy>
