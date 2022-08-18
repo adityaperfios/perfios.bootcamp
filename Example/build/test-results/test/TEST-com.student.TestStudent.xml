@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.student.TestStudent" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-17T09:43:03" hostname="aditya-Latitude-5521" time="0.012">
-  <properties/>
-  <testcase name="TestVoting()" classname="com.student.TestStudent" time="0.012"/>
-  <system-out><![CDATA[eligible for voting
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
