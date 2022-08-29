@@ -113,7 +113,7 @@ class Players{
 class Utils {
 
     public static void display(Players p){
-        System.out.println("Serial No. ");
+//        System.out.println("Serial No. ");
         System.out.println("Id : "+p.getId());
         System.out.println("Name : "+p.getName());
         System.out.println("Total Runs : "+p.getTot_runs());
@@ -122,6 +122,7 @@ class Utils {
         System.out.println("Out on zero : "+p.getDuck());
         System.out.println("Current Avg : "+p.getAvg());
         System.out.println("Player Type : "+p.getPlayer_type());
+        System.out.println();
 
     }
     public static void sortbyName(ArrayList<Players> list){
@@ -201,26 +202,42 @@ class Utils {
         Players player3 = new Players(3,"Ravindra Jadeja",97,19,1,4,89,"Bowler");
         Players player4 = new Players(4,"Mohammed Shami",987,15,15,4,37,"Bowler");
         Players player5 = new Players(5,"Manish Pandey",345,13,13,0,56,"Bowler");
-//        Player player6 = new Player(6,"Jasprit Bumrah","Bowler",0.0,38500,400,25,32);
-//        Player player7 = new Player(19,"Mayank Agarwal","Batsman",0.0,29500,400,25,32);
-//        Player player8 = new Player(8,"Shreyas Iyer","Batsman",0.0,91500,400,25,32);
-//        Player player9 = new Player(9,"Yuzvendra Chahal","Bowler",0.0,85500,400,25,32);
-//        Player player10 = new Player(10,"KL Rahul","Wicket-Keeper",0.0,75500,400,25,32);
-//        Player player11 = new Player(11,"Hardik Pandya","Batsman",0.0,92500,400,25,32);
-//        Player player12 = new Player(12,"Kuldeep Yadav","Bowler",0.0,16500,400,25,32);
-//        Player player13 = new Player(13,"Shardul Thakur","Bowler",0.0,7500,400,25,32);
-//        Player player14 = new Player(14,"Navdeep Saini","Bowler",0.0,8500,400,25,32);
-//        Player player15 = new Player(15,"Shubman Gill","Batsman",0.0,72500,400,25,32);
-//        Player player16 = new Player(16,"Ajinkya Rahane","Batsman",0.0,62500,400,25,32);
-//        Player player17 = new Player(17,"Ravichandran Ashwin","Bowler",0.0,22500,400,25,32);
-//        Player player18 = new Player(18,"Umesh Yadav","Bowler",0.0,32500,400,25,32);
-//        Player player19 = new Player(7,"MS Dhoni","Wicket-Keeper",0.0,98500,400,25,32);
+        Players player6 = new Players(6,"Jasprit Bumrah",546,21,22,5,87,"Bowler");
+        Players player7 = new Players(19,"Mayank Agarwal",322,17,11,9,34,"Batsman");
+        Players player8 = new Players(8,"Shreyas Iyer",877,67,31,17,91,"Batsman");
+        Players player9 = new Players(9,"Yuzvendra Chahal",133,9,15,7,32,"Bowler");
+        Players player10 = new Players(10,"KL Rahul",743,89,0,15,77,"WicketKeeper");
+        Players player11 = new Players(11,"Hardik Pandya",655,45,23,0,100,"Batsman");
+        Players player12 = new Players(12,"Kuldeep Yadav",333,21,3,6,28,"Allrounder");
+        Players player13 = new Players(13,"Shardul Thakur",675,58,14,17,30,"Bowler");
+        Players player14 = new Players(14,"Navdeep Saini",223,34,2,4,25,"Bowler");
+        Players player15 = new Players(15,"Shubman Gill",651,43,0,4,41,"Batsman");
+        Players player16 = new Players(16,"Ajinkya Rahane",451,33,62,7,69,"Batsman");
+        Players player17 = new Players(17,"Ravichandran Ashwin",121,23,22,12,75,"Bowler");
+        Players player18 = new Players(18,"Umesh Yadav",99,4,32500,12,65,"Bowler");
+        Players player19 = new Players(19,"MS Dhoni",345,8,9,7,87,"Bowler");
+        Players player20 = new Players(20,"Risabh Pant",876,78,14,16,67,"Bowler");
 
         player_list.add(player1);
         player_list.add(player2);
         player_list.add(player3);
         player_list.add(player4);
         player_list.add(player5);
+        player_list.add(player6);
+        player_list.add(player7);
+        player_list.add(player8);
+        player_list.add(player9);
+        player_list.add(player10);
+        player_list.add(player11);
+        player_list.add(player12);
+        player_list.add(player13);
+        player_list.add(player14);
+        player_list.add(player15);
+        player_list.add(player16);
+        player_list.add(player17);
+        player_list.add(player18);
+        player_list.add(player19);
+        player_list.add(player20);
     }
 
 
@@ -229,11 +246,11 @@ class Update{
     public static void update(ArrayList<Players> player_list) throws PlayerNotFoundException{
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter players name");
-        String name = sc.nextLine();
+        String name = sc.nextLine().toLowerCase();
         //sc.next();
             for (Players p:player_list){
                 try {
-                    if (name.equals(p.getName())) {
+                    if (name.equals(p.getName().toLowerCase())) {
                         System.out.println("Enter player id");
                         int id = sc.nextInt();
                         sc.nextLine();
@@ -264,10 +281,19 @@ class Update{
                         p.setPoints(points);
 
                     }
-                }catch (Exception e){
-                    System.out.println("Player Not Found");
+                    else {
+                        throw new PlayerNotFoundException("Player not found");
+                    }
                 }
+                catch (PlayerNotFoundException ex){
+                    System.out.println("Player Not found");
+                }
+                catch (Exception e){
+                    System.out.println("Something went wrong");
+                }
+
             }
+        System.out.println("player not found");
             }
         }
 
