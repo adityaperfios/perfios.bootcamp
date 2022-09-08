@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>SignUp</title>
+<style>
+
+.header{
+   background-color: grey;
+}
+
+.error{
+color: red;
+}
+</style>
+</head>
+
+<body bgcolor=#57ABB9>
+<form action="#">
+	<h1 align="center" style="color:white" class="header">Sign Up</h1>
+	<p align="center" style="color:">	
+	Enter FullName : <input type = "text" name = "fname"><br><br>
+	Enter UserName <span class="error">*</span> : <input type = "text" name = "user"><br><br>
+	Enter Password <span class="error">*</span> : <input type = "password" name = "pwd"><br><br>
+	
+	
+	Select City : <select name = "city">
+	<option value="">select city</option>
+	<option value="">Bangalore</option>
+	<option value="">Hyderbad</option>
+	<option value="">TPT</option>
+	</select><br><br>
+	
+	Select Languages :
+	<input type = "checkbox" name = "l1">French &nbsp;&nbsp;
+	<input type = "checkbox" name = "l2">German &nbsp;&nbsp;
+	<input type = "checkbox" name = "l1">English &nbsp;&nbsp;
+	<br><br>
+	
+	Select Gender:
+	<input type = "radio" name = "gender">Male &nbsp;&nbsp;
+	<input type = "radio" name = "gender">Female &nbsp;&nbsp;
+	<input type = "radio" name = "gender">Other &nbsp;&nbsp;
+	<br><br>
+	
+	Address : <textarea rows="3" cols="12"></textarea><br><br>
+	Enter Mobile : <input type="tel" name = "mobile"><br><br>
+	Enter Email : <input type="email" name = "email"><br><br>
+	
+	<input type = "submit" value="Submit">
+	</p>
+	</form>
+</body>
+</html>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.perfs.Class2"/>
-<fullyQualifiedTypeName name="com.perfs.Class3"/>
-<fullyQualifiedTypeName name="com.perfs.Modifiers"/>
-<fullyQualifiedTypeName name="pkg.Class1"/>
-<fullyQualifiedTypeName name="java.lang.Exception"/>
-<fullyQualifiedTypeName name="pkg.Methodch"/>
-<fullyQualifiedTypeName name="pkg.Constructor"/>
-<fullyQualifiedTypeName name="pkg.Stat"/>
-<fullyQualifiedTypeName name="pkg.Book"/>
-<fullyQualifiedTypeName name="pkg.Demo"/>
-<fullyQualifiedTypeName name="pkg.SingleTn"/>
-<fullyQualifiedTypeName name="pkg.Exp"/>
-<fullyQualifiedTypeName name="sun.misc.Signal"/>
-<fullyQualifiedTypeName name="Examples.test1"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
-<fullyQualifiedTypeName name="Examples.Student"/>
-<fullyQualifiedTypeName name="Examples.data"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="Assignment.Stud"/>
-<fullyQualifiedTypeName name="StrPrac.Rev_string"/>
-<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="com.perfs.Class2"/>
+    <fullyQualifiedTypeName name="com.perfs.Class3"/>
+    <fullyQualifiedTypeName name="com.perfs.Modifiers"/>
+    <fullyQualifiedTypeName name="pkg.Class1"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="pkg.Methodch"/>
+    <fullyQualifiedTypeName name="pkg.Constructor"/>
+    <fullyQualifiedTypeName name="pkg.Stat"/>
+    <fullyQualifiedTypeName name="pkg.Book"/>
+    <fullyQualifiedTypeName name="pkg.Demo"/>
+    <fullyQualifiedTypeName name="pkg.SingleTn"/>
+    <fullyQualifiedTypeName name="pkg.Exp"/>
+    <fullyQualifiedTypeName name="sun.misc.Signal"/>
+    <fullyQualifiedTypeName name="Examples.test1"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Examples.Student"/>
+    <fullyQualifiedTypeName name="Examples.data"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="Assignment.Stud"/>
+    <fullyQualifiedTypeName name="StrPrac.Rev_string"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
 </qualifiedTypeNameHistroy>
