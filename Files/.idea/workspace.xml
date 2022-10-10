@@ -5,9 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="661194e4-570a-45f3-87e7-9df8f5c74a73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Practice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenProj/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenProj/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MavenProj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenProj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/app1/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/app1/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/proj/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/proj/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessment3/target/classes/Display.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assessment3/target/classes/Display.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessment3/target/classes/Insert_Values.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assessment3/target/classes/Insert_Values.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessment3/target/classes/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assessment3/target/classes/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessment3/target/classes/WorkerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assessment3/target/classes/WorkerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assessment3/target/classes/Worker_Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assessment3/target/classes/Worker_Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Banking_Project/target/classes/banking_app/AccTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Banking_Project/target/classes/banking_app/AccTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Banking_Project/target/classes/banking_app/Acc_Details.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Banking_Project/target/classes/banking_app/Acc_Details.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Banking_Project/target/classes/banking_app/Banking_utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Banking_Project/target/classes/banking_app/Banking_utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Banking_Project/target/classes/banking_app/Display.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Banking_Project/target/classes/banking_app/Display.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Banking_Project/target/classes/banking_app/Insert_Values.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Banking_Project/target/classes/banking_app/Insert_Values.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Banking_frontend/src/main/webapp/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Banking_frontend/src/main/webapp/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Banking_frontend/src/main/webapp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Banking_frontend/src/main/webapp/Login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Banking_frontend/src/main/webapp/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Banking_frontend/src/main/webapp/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Struc/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Struc/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_Struc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data_Struc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Example/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graddle_Proj/lib/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Graddle_Proj/lib/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenProj/target/classes/filehandling/ReadWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenProj/target/classes/filehandling/ReadWrite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/target/classes/EmpData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/target/classes/EmpData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/target/classes/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/target/classes/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/target/test-classes/EmpTesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/target/test-classes/EmpTesting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc_maven/target/classes/META-INF/maven/org.example/jdbc_maven/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc_maven/target/classes/META-INF/maven/org.example/jdbc_maven/pom.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +86,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "/home/aditya/perfios.bootcamp/Files"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;/home/aditya/perfios.bootcamp/Files&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.DeSerialDemo">
     <configuration name="DeSerialDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeSerialDemo" />
